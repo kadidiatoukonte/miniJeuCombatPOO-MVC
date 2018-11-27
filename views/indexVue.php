@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
   include("template/header.php");
 ?>
 <form action="index.php?start=loading" method="POST">
@@ -31,3 +32,13 @@ Pseudo: <input type="text" name="name" value=""><br>
 //  }
    include("template/footer.php");
 ?>
+=======
+  include("template/header.php")
+ ?>
+
+<p>This is the index view</p>
+
+ <?php
+   include("template/footer.php")
+  ?>
+>>>>>>> f5ea91f632f5c8b000bb566f24765fae7af3157a

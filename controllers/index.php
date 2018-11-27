@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 require "../model/Database.php";
 require "../entities/Person.php";
 require "../model/Manager.php";
@@ -18,3 +19,9 @@ $personManager = new PersonManager(Database::DB());
         require "../views/indexVue.php";
 
 ?>
+=======
+
+
+include "../views/indexVue.php";
+ ?>
+>>>>>>> f5ea91f632f5c8b000bb566f24765fae7af3157a

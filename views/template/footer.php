@@ -1,5 +1,9 @@
 <footer>
+<<<<<<< HEAD
   <!-- <p>A footer if you need one</p> -->
+=======
+  <p>A footer if you need one</p>
+>>>>>>> f5ea91f632f5c8b000bb566f24765fae7af3157a
 </footer>
 
  <script src="js/vendor/modernizr-3.6.0.min.js"></script>
