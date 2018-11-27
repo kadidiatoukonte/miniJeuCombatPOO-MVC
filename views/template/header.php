@@ -20,6 +20,9 @@
   <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
+<<<<<<< HEAD
+=======
     <header>
       <h1>Main title in the header</h1>
     </header>
+>>>>>>> f5ea91f632f5c8b000bb566f24765fae7af3157a
